@@ -9,4 +9,3 @@
 - Utilized Git and GitHub for version control and collaboration.
 - Demonstrated cloud deployment, containerization, and DevOps best practices.
 - Technologies: Node.js, Express.js, Docker, AWS EC2, Linux, Git, GitHub.
-- Showcases skills in application deployment, cloud infrastructure, and container management.
